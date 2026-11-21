@@ -51,3 +51,24 @@ the robot's tracking and turning performance.
 - Implementing PID control
 - Debugging hardware and software together
 
+## Repository Structure
+
+- `line_follower.ino` – Main Arduino source code
+- `docs/circuit-connections.md` – Hardware pin connections
+- `images/` – Project photographs and diagrams
+
+## Getting Started
+
+1. Download or clone this repository.
+2. Open the Arduino IDE.
+3. Install the required ESP32 board support.
+4. Connect the ESP32 to your computer.
+5. Open the source code.
+6. Verify the pin configuration.
+7. Upload the code to the ESP32.
+
+## Acknowledgements
+
+This project was developed as part of my
+hands-on learning in embedded systems and robotics.
+
